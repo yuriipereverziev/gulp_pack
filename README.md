@@ -5,7 +5,7 @@
 
 #### Для начала работы
 
-1. ```clone git@github.com:yuriipereverziev/gulp_pack.git```
+1. ```git clone git@github.com:yuriipereverziev/gulp_pack.git```
 2. ```cd path/to/...```
 3. ```npm install gulpjs/gulp-cli -g```  
 > Установка последней версии Gulp CLI tools глобально (подробнее - [GitHub](https://github.com/gulpjs/gulp/blob/4.0/docs/getting-started.md) )
